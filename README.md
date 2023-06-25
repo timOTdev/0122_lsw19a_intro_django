@@ -1,4 +1,4 @@
-# Intro to Django
+# 0123_lsw19a_intro_django
 
 Fork this repo to use for your projects this week.
 
